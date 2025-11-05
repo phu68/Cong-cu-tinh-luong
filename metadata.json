@@ -1,0 +1,5 @@
+{
+  "name": "Công cụ tính chi phí lương",
+  "description": "Một công cụ giúp chủ doanh nghiệp tại Việt Nam tính toán tổng chi phí lương cho nhân viên, bao gồm lương NET, GROSS, bảo hiểm xã hội (BHXH) và thuế thu nhập cá nhân (TNCN).",
+  "requestFramePermissions": []
+}
